@@ -19,7 +19,7 @@ By building end-to-end mini-projects, I aim to bridge the gap between theoretica
 
 | Project Name | Domain | Description |
 | :--- | :--- | :--- |
-| [Rice Grain Classification](./Rice_Classification) | Computer Vision / ML | Classifying rice grain varieties (Arborio vs. Basmati) using geometric features and KNN. |
+| [Rice Grain Classification](./RiceGrainClassification) | Computer Vision / ML | Classifying rice grain varieties (Arborio vs. Basmati) using geometric features and KNN. |
 | *(More coming soon...)* | | |
 
 ## 🛠️ Tech Stack & Tools
