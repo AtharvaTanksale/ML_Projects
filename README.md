@@ -19,7 +19,6 @@ By building end-to-end mini-projects, I aim to bridge the gap between theoretica
 | Project Name | Domain | Description |
 | :--- | :--- | :--- |
 | **[Rice Grain Classification](#)** | Computer Vision / ML | Classifying rice grain varieties (Arborio vs. Basmati) using geometric features and KNN. |
-| **[Athlete Recovery Prediction](#athlete-recovery-score-predictor)** | Regression / ML | Predicting an athlete's next-day recovery score using daily training load, sleep deficit, and algorithms like XGBoost and Random Forest. |
 | *(More coming soon...)* | | |
 
 ---
